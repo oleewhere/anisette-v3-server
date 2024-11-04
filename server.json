@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "oleewhere",
+            "address": "https://anisette-v3-server-s3ex.onrender.com"
+        }
+    ]
+}
